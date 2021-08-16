@@ -1,0 +1,451 @@
+
+@font-face {
+    font-family: "SPO365Icons";
+    src: url("../fonts/Office365Icons.eot");
+    src: url("../fonts/Office365Icons.eot?#iefix") format("embedded-opentype"), 
+         url("../fonts/Office365Icons.woff") format("woff"), 
+         url("../fonts/Office365Icons.ttf") format("truetype"), 
+         url("../fonts/Office365Icons.svg#web") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.office365-office:before{
+    font-family: SPO365Icons;
+    content: "\e055";
+}
+
+.office365-office-txt:before{
+    font-family: SPO365Icons;
+    content: "\e160";
+}
+
+.office365-office365:before{
+    font-family: SPO365Icons;
+    content: "\e056";
+}
+
+.office365-office-preview:before{
+    font-family: SPO365Icons;
+    content: "\e057";
+}
+
+.office365-microsoft:before{
+    font-family: SPO365Icons;
+    content: "\e083";
+}
+
+.office365-plus-sign:before{
+    font-family: SPO365Icons;
+    content: "\e004";
+}
+
+.office365-question-mark:before{
+    font-family: SPO365Icons;
+    content: "\e006";
+}
+
+.office365-person:before{
+    font-family: SPO365Icons;
+    content: "\e008";
+}
+
+.office365-envelope:before{
+    font-family: SPO365Icons;
+    content: "\e009";
+}
+
+.office365-information:before{
+    font-family: SPO365Icons;
+    content: "\e00a";
+}
+
+.office365-warning:before{
+    font-family: SPO365Icons;
+    content: "\e00b";
+}
+
+.office365-error:before{
+    font-family: SPO365Icons;
+    content: "\e00c";
+}
+
+.office365-persons:before{
+    font-family: SPO365Icons;
+    content: "\e00e";
+}
+
+.office365-bell:before{
+    font-family: SPO365Icons;
+    content: "\e010";
+}
+
+.office365-cal-month:before{
+    font-family: SPO365Icons;
+    content: "\e011";
+}
+
+
+.office365-cal-week:before{
+    font-family: SPO365Icons;
+    content: "\e012";
+}
+
+.office365-cal-day:before{
+    font-family: SPO365Icons;
+    content: "\e013";
+}
+ 
+.office365-onedrive:before{
+    font-family: SPO365Icons;
+    content: "\e016";
+}
+
+.office365-message:before{
+    font-family: SPO365Icons;
+    content: "\e017";
+}
+
+.office365-menu:before{
+    font-family: SPO365Icons;
+    content: "\e020";
+}
+
+.office365-fav:before{
+    font-family: SPO365Icons;
+    content: "\e022";
+}
+
+.office365-save:before{
+    font-family: SPO365Icons;
+    content: "\e025";
+}
+
+.office365-Edit:before{
+    font-family: SPO365Icons;
+    content: "\e027";
+}
+
+.office365-applaunch:before{
+    font-family: SPO365Icons;
+    content: "\e11f";
+}
+
+.office365-layout:before{
+    font-family: SPO365Icons;
+    content: "\e02a";
+}
+
+.office365-refresh:before{
+    font-family: SPO365Icons;
+    content: "\e034";
+}
+
+.office365-gear:before{
+    font-family: SPO365Icons;
+    content: "\e035";
+}
+
+.office365-smile:before{
+    font-family: SPO365Icons;
+    content: "\e036";
+}
+
+.office365-search:before{
+    font-family: SPO365Icons;
+    content: "\e039";
+}
+
+.office365-checked:before{
+    font-family: SPO365Icons;
+    content: "\e040";
+}
+
+.office365-checkbox:before{
+    font-family: SPO365Icons;
+    content: "\e041";
+}
+
+.office365-cancel:before{
+    font-family: SPO365Icons;
+    content: "\e042";
+}
+
+.office365-thumb-down:before{
+    font-family: SPO365Icons;
+    content: "\e043";
+}
+
+.office365-thumb-up:before{
+    font-family: SPO365Icons;
+    content: "\e044";
+}
+
+.office365-callout:before{
+    font-family: SPO365Icons;
+    content: "\e045";
+}
+
+.office365-appicon:before{
+    font-family: SPO365Icons;
+    content: "\e060";
+}
+
+.office365-store:before{
+    font-family: SPO365Icons;
+    content: "\e061";
+}
+
+.office365-outlook:before{
+    font-family: SPO365Icons;
+    content: "\e062";
+}
+
+.office365-projects:before{
+    font-family: SPO365Icons;
+    content: "\e063";
+}
+
+.office365-yammer:before{
+    font-family: SPO365Icons;
+    content: "\e064";
+}
+
+.office365-crm:before{
+    font-family: SPO365Icons;
+    content: "\e065";
+}
+
+.office365-Lync:before{
+    font-family: SPO365Icons;
+    content: "\e066";
+}
+
+.office365-sharepoint:before{
+    font-family: SPO365Icons;
+    content: "\e072";
+}
+
+.office365-excel:before{
+    font-family: SPO365Icons;
+    content: "\e0b5";
+}
+
+.office365-onenote:before{
+    font-family: SPO365Icons;
+    content: "\e0b7";
+}
+
+.office365-powerpoint:before{
+    font-family: SPO365Icons;
+    content: "\e0b8";
+}
+
+.office365-word:before{
+    font-family: SPO365Icons;
+    content: "\e0b9";
+}
+
+.office365-delve:before{
+    font-family: SPO365Icons;
+    content: "\e118";
+}
+
+.office365-person-certified:before{      
+    font-family: SPO365Icons;
+    content: "\e080";
+}
+
+.office365-settings:before{
+    font-family: SPO365Icons;
+    content: "\e081";
+}
+
+.office365-bi:before{
+    font-family: SPO365Icons;
+    content: "\E8E0";
+}
+
+.office365-newsfeed:before{
+    font-family: SPO365Icons;
+    content: "\e08d";
+}
+
+.office365-dbl-arrow-up:before{
+    font-family: SPO365Icons;
+    content: "\e090";
+}
+
+.office365-dbl-arrow-down:before{
+    font-family: SPO365Icons;
+    content: "\e091";
+}
+
+.office365-dbl-arrow-left:before{
+    font-family: SPO365Icons;
+    content: "\e092";
+}
+
+.office365-dbl-arrow-right:before{
+    font-family: SPO365Icons;
+    content: "\e093";
+}
+
+.office365-cv-arrow-left:before{
+    font-family: SPO365Icons;
+    content: "\e029";
+}
+
+.office365-cv-arrow-right:before{
+    font-family: SPO365Icons;
+    content: "\e04c";
+}
+
+.office365-arrow-left:before{
+    font-family: SPO365Icons;
+    content: "\e049";
+}
+
+.office365-arrow-right:before{
+    font-family: SPO365Icons;
+    content: "\e04a";
+}
+
+.office365-arrow-up:before{
+    font-family: SPO365Icons;
+    content: "\e047";
+}
+
+.office365-arrow-down:before{
+    font-family: SPO365Icons;
+    content: "\e048";
+}
+
+.office365-ul-arrow-up:before{
+    font-family: SPO365Icons;
+    content: "\e076";
+}
+
+.office365-ul-arrow-down:before{
+    font-family: SPO365Icons;
+    content: "\e04b";
+}
+
+.office365-tl-arrow-up:before{
+    font-family: SPO365Icons;
+    content: "\e051";
+}
+
+.office365-tl-arrow-down:before{
+    font-family: SPO365Icons;
+    content: "\e052";
+}
+
+.office365-tl-arrow-left:before{
+    font-family: SPO365Icons;
+    content: "\e053";
+}
+
+.office365-tl-arrow-right:before{
+    font-family: SPO365Icons;
+    content: "\e054";
+}
+
+.office365-tl-arrow-up-left:before{
+    font-family: SPO365Icons;
+    content: "\e05a";
+}
+
+.office365-tl-arrow-up-right:before{
+    font-family: SPO365Icons;
+    content: "\e05b";
+}
+
+.office365-tl-arrow-down-left:before{
+    font-family: SPO365Icons;
+    content: "\e05c";
+}
+
+.office365-tl-arrow-down-right:before{
+    font-family: SPO365Icons;
+    content: "\e05d";
+}
+
+.office365-certified:before{
+    font-family: SPO365Icons;
+    content: "\e0af";
+}
+
+.office365-astriks:before{
+    font-family: SPO365Icons;
+    content: "\e11c";
+}
+
+.office365-bing-maps:before{
+    font-family: SPO365Icons;
+    content: "\e123";
+}
+
+.office365-set-access:before{
+    font-family: SPO365Icons;
+    content: "\e130";
+}
+
+.office365-set-crm:before{
+    font-family: SPO365Icons;
+    content: "\e131";
+}
+
+.office365-set-delve:before{
+    font-family: SPO365Icons;
+    content: "\e132";
+}
+
+.office365-set-exchange:before{
+    font-family: SPO365Icons;
+    content: "\e133";
+}
+
+.office365-set-lync:before{
+    font-family: SPO365Icons;
+    content: "\e134";
+}
+
+.office365-set-mail:before{
+    font-family: SPO365Icons;
+    content: "\e135";
+}
+
+.office365-set-outlook:before{
+    font-family: SPO365Icons;
+    content: "\e136";
+}
+
+.office365-set-project:before{
+    font-family: SPO365Icons;
+    content: "\e137";
+}
+
+.office365-set-sharepoint:before{
+    font-family: SPO365Icons;
+    content: "\e138";
+}
+
+.office365-set-yammer:before{
+    font-family: SPO365Icons;
+    content: "\e139";
+}
+
+.office365-set-skype:before{
+    font-family: SPO365Icons;
+    content: "\e199";
+}
+
+.office365-apple:before{
+    font-family: SPO365Icons;
+    content: "\f8ff";
+}
+.office365-cat:before{
+    font-family: SPO365Icons;
+    content: "\e174";
+}
