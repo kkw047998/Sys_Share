@@ -1,0 +1,12 @@
+*.vue
+systems/HWAC/*
+systems/UI/src/Procurement/*
+systems/UI/src/images/*
+systems/UI/src/subsitude/*
+systems/UI/src/Procurement.zip
+systems/UI/src/Procurement_old/*
+systems/UI/src/inventory/*
+systems/HWAC.zip
+*.gif
+*.png
+
