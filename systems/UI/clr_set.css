@@ -1,0 +1,61 @@
+.asset_bar,.swal2-confirm.swal2-styled, .red_bar,.custom-button-effect,.time-picker-column-item-effect,.datepicker-day-effect,th, #basix-header, .card-header {
+    background-color:#FFCB05!important;
+}
+button.form-control:hover{
+    background-color:#FFCB05!important;
+    color:#ffffff;
+    transition: 0.5s;
+  }
+.admin-container {
+    background-color:#F2F2F2!important;
+}
+.bg-flat-color-6{
+    background : rgba(255,203,5,0.85)!important;
+}
+.bg-flat-color-3{
+    background : #c7a005!important;
+}
+::selection {
+    background: rgb(197,41,57)!important;
+}
+.btn-primary{
+    color:#FFCB05!important;
+}
+.btn-primary:not([disabled]):not(.disabled).active, .btn-primary:not([disabled]):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color:#FFFFFF!important;
+    background-color: #FFCB05!important;
+}
+.btn-danger {
+    color:rgb(159,33,46)!important;
+}
+.btn-danger:not([disabled]):not(.disabled).active, .btn-danger:not([disabled]):not(.disabled):active, .show>.btn-danger.dropdown-toggle {
+    color:#FFFFFF!important;
+    background-color: rgb(159,33,46)!important;
+}
+.navbar .navbar-header{
+    /*background-color : rgb(159,33,46)!important;*/
+}
+.custom-button-content{
+    color:#FFCB05!important;
+    fill:#FFCB05!important;
+}
+::-webkit-scrollbar-thumb{
+    background-color:#F2F2F2!important;
+}
+.fc-bg{
+    background-color:#FFFFFF!important;
+}
+.card-body{
+    overflow-x:hidden!important;
+}
+.left-panel, #main-menu, .navbar-header, .nav-item, .sub-menu {
+    background-color:#323232!important;
+}
+.navheader_wide_logo {
+    width:100%!important;
+}
+@media all and (min-width : 1024px) {
+    body:not(.open)  .left-panel {
+        min-width:280px!important;
+    }
+}
