@@ -47,6 +47,7 @@
   $i = 0;
   $j = 0;
   if(isset($_SESSION['login_user'])){
+    /*
     $sql = "SELECT * FROM userdept WHERE username = '$id'";
     $result = $db->query($sql);
     while($row = mysqli_fetch_array($result)){
@@ -69,6 +70,7 @@
           $j++;
         }     
     }
+    */
   } else {
     if(isset($_GET['etype'])){
       $entry = $_GET['etype'];
