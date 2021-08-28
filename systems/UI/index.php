@@ -74,10 +74,10 @@
   } else {
     if(isset($_GET['etype'])){
       $entry = $_GET['etype'];
-      header("Location: ../../index.php?etype=$entry");
+     // header("Location: ../../index.php?etype=$entry");
     } else {
       $redirect = "portal.php";
-      header("Location: ../../index.php");
+     // header("Location: ../../index.php");
     }
   }
 ?>
